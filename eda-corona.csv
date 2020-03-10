@@ -1,0 +1,4 @@
+﻿County,Cases,Deaths,Mortality Rate, median-rent ,median-rent-usa,population,median-count-size-usa,homeless-percentage,homeless-count,distance-coast-miles
+"King County, WA",128,19,0.15,1768.00,1216.00,2189000.00,23999.00,0.005,11643,13.8
+"Santa Clara, CA",38,,,2962.00,1216.00,1938000.00,23999.00,0.005,9706,8
+"Westchester County, NY",98,,,1967.00,1216.00,980244.00,23999.00,0.002,1812,11
